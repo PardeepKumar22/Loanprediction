@@ -7,11 +7,9 @@
 #Import API's
 import pandas as pd
 import numpy as np
-get_ipython().run_line_magic('matplotlib', 'inline')
 import matplotlib.pyplot as plt
 import seaborn as sns
-import warnings
-warnings.filterwarnings('ignore')
+
 
 
 # In[2]:
