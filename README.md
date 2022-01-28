@@ -25,7 +25,7 @@ Loan_Status	(Target) Loan approved (Y/N)
 
 Test file: CSV containing the customer information for whom loan eligibility is to be predicted
 
-Variable	Description
+Variable	Description:
 Loan_ID	Unique Loan ID
 Gender	Male/ Female
 Married	Applicant married (Y/N)
